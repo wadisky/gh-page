@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "B-SE",
+    "description": "",
+    "home_page_url": "https://wadisky.github.io/gh-page",
+    "feed_url": "https://wadisky.github.io/gh-page/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "wadisky"
+    },
+    "items": [
+    ]
+}
