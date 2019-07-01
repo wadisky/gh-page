@@ -537,7 +537,7 @@ textarea {
     margin: 0 -4vw 3rem; }
     @media all and (min-width: 56.25em) {
       .container > header {
-        height: 6rem;
+        height: 3rem;
         -webkit-box-pack: justify;
         -ms-flex-pack: justify;
         justify-content: space-between; } }
